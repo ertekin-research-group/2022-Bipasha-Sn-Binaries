@@ -7,7 +7,7 @@
 
 The file contains defect formation energies for 
 
-(i) SnS, SnSe in orthorhombic (Pnma)crystal structure, and SnTe in rock salt crystal structure computed using both DFT-PBE and DFT-HSE functionals.
+(i) SnS, SnSe in orthorhombic (Pnma) crystal structure, and SnTe in rock salt crystal structure computed using both DFT-PBE and DFT-HSE functionals.
 
 (ii) SnTe in a hypothetical orthorhombic (Pnma) crystal structure computed using DFT-PBE.
 
