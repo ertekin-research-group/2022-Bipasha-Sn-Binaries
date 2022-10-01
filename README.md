@@ -1,5 +1,5 @@
 # 2022-Bipasha-Sn-Binaries
-**Generated and analyzed data repository for binary Sn chalcogenides article.**
+**Generated and analyzed data repository for binary Sn chalcogenides analysis of intrinsic properties and dopability.**
 
 ## Files 
 
